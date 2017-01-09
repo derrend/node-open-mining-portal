@@ -46,7 +46,8 @@
         "request": "*",
         "nonce": "*",
         "bignum": "*",
-        "extend": "*"
+        "extend": "*",
+	"multi-hashing": "git://github.com/zcoinofficial/node-multi-hashing-xzc.git"
     },
     "engines": {
         "node": ">=0.10"
